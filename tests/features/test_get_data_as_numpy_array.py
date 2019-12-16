@@ -9,7 +9,7 @@ def test_on_clean_file():
                        ]
                       )
   # path = "C:/Users/Admin/Desktop/unit-test-for-data-science-master/unit-test-for-data-science-master/data/clean/example_clean_data.txt"
-  path = "data\clean\example_clean_data.txt"
+  path = "data/clean/example_clean_data.txt"
   actual = get_data_as_numpy_array(path, num_columns=2)
   message = "Expected return value: {0}, Actual Return value: {1}".format(expected, actual)
   # Complete your test
