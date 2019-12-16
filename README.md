@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/datanooblol/test-ci.svg?branch=master)](https://travis-ci.com/datanooblol/test-ci)
+
 # unit-test-for-data-science
 
 ## Setup
