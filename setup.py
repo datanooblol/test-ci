@@ -8,7 +8,7 @@ setup(name="unit-test-for-data-science",
       package_dir={"": "src"},
       install_requires=[
                         "matplotlib==3.1.1",
-                        "numpy==1.17.3",
+                        "numpy==1.22.0",
                         "pytest==5.2.2",
                         "pytest-mpl==0.10",
                         "pytest-mock==1.11.2",
